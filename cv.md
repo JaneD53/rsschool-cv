@@ -1,5 +1,7 @@
-# Aida Mirasova
->![Mirasova Aida pic]()
+
+>![Mirasova Aida pic](https://sun9-west.userapi.com/sun9-56/s/v1/ig2/kNdXBWBdw1RH4jB7axcgZpR-UETYrVq5cYfCTIiEzSI2WEr65IZHafDeOFL4N940CvBSSmiAKBrzuaAJ-b6HCUDq.jpg?size=643x806&quality=95&type=album)
+>
+># Aida Mirasova
 >Frontend Developer/Animator 
 >Email@
 >+7 (926)163 54 14
