@@ -2,16 +2,22 @@
 >![Mirasova Aida pic](https://sun9-west.userapi.com/sun9-56/s/v1/ig2/kNdXBWBdw1RH4jB7axcgZpR-UETYrVq5cYfCTIiEzSI2WEr65IZHafDeOFL4N940CvBSSmiAKBrzuaAJ-b6HCUDq.jpg?size=643x806&quality=95&type=album)
 >
 ># Aida Mirasova
+>
 >Frontend Developer/Animator 
->Email@
+>
+>i.am.a.invisible.beast@yandex.ru
+>
 >+7 (926)163 54 14
+>
 >Moscow, Russia
 >
->Vimeo
->Github
->discord
+>Video [Yoko](https://braincancer.quickconnect.to/d/s/paAAjjOWAbNNBIJqFA0hgCgoRe6kZ6OJ/XawEEZS0RGXqVPQiwLkkQJgxAKyh4dIb-NL8AhyTRsAk)
 >
-### i like to work in group with a strict pipeline. i try to do my part of project according to requests of manager and designer. earlier  i were studying math, but i changed circle of interests and became layout artist. Now i would like to combine my knowledge in math and my skills into creating of cartoons together.
+>Github **JaneD53**
+>
+>discord **jd53#9017**
+>
+### I like to work in group with a strict pipeline. I try to do my part of project according to requests of a manager and a designer. Earlier  I studied math, but I had changed circle of interests and became a layout artist. Now I would like to combine my knowledge in math and my skills into creating of cartoons together.
 ## Skills
 > C++, SQL, HTML, JAVA Script, CSS
 >
@@ -25,15 +31,15 @@
 >*Layout artist, Wizart* 
 >*2018-2019*
 >
-> - created sequences of shots, based on an animatic film.
-> - Fill into scene props and personages.
-> - Expose a personages into key poses.
+> - Created sequences of shots, based on an animatic film.
+> - Filled into scene props and personages.
+> - Exposed a personages into key poses.
 >
 >*Lighting artist, Wizart*
 >*2019*
 >
->- added sources of light into scenes
->- rendered scenes 
+>- Added sources of light into scenes
+>- Rendered scenes 
 ## Education
 > Kalashnikov Izhevsk State Technical University, Applied mathematics
 >*2014-2015* 
@@ -46,6 +52,5 @@
 
 ## Languages 
 >English
->
->Russian
+
 
